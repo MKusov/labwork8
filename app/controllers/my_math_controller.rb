@@ -1,3 +1,4 @@
+requirie 'prime'
 class MyMathController < ApplicationController
   include MyMathHelper
   def index
